@@ -29,17 +29,17 @@
 
 const char* GMT_ZONE = "UTC";
 const char* GMT_ZONE_fa = "گرینویچ";
-const char* jalali_months[] = { "Farvardin", "Ordibehesht", "Khordaad",
-                                "Tir", "Mordaad", "Shahrivar", "Mehr",
-                                "Aabaan", "Aazar", "Dey", "Bahman", "Esfand" };
-const char* fa_jalali_months[] = { "فروردین", "اردیبهشت", "خرداد",
-                                   "تیر", "مرداد", "شهریور",
-                                   "مهر", "آبان", "آذر",
-                                   "دی", "بهمن", "اسفند" };
-const char* jalali_months_3[] = { "Far", "Ord", "Kho", "Tir", "Mor", "Sha",
-                                  "Meh", "Aba", "Aza", "Dey", "Bah", "Esf" };
-const char* fa_jalali_months_3[] = { "فرو", "ارد", "خرد", "تیر", "مرد", "شهر",
-                                     "مهر", "آبا", "آذر", "دی ", "بهم", "اسف"};
+const char* jalali_months[] = { "Hamal", "Thavr", "Javza",
+                                "Saratan", "Asad", "Sunbula", "Misan",
+                                "Aqrab", "Qaus", "Jade", "Dlve", "Hoot" };
+const char* fa_jalali_months[] = { "حمل", "ثور", "جوزا",
+                                   "سرطان", "اسد", "سنبله",
+                                   "میزان", "عقرب", "قوس",
+                                   "جدی", "دلو", "حوت" };
+const char* jalali_months_3[] = { "Hml", "Svr", "Jvz", "Srt", "Asd", "Sun",
+                                  "Mez", "Aqr", "Qus", "Jad", "Dlv", "Hot" };
+const char* fa_jalali_months_3[] = { "حمل", "ثور", "جوز", "سرط", "اسد", "سنبل",
+                                     "میزا", "عقر", "قوس", "جدی ", "دلو", "حوت"};
 const char* jalali_days_fa[] = { "Shanbeh", "Yek-Shanbeh", "Do-Shanbeh",
                                  "Seh-Shanbeh", "Chahaar-Shanbeh",
                                  "Panj-Shanbeh", "Jomeh" };
